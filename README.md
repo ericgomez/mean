@@ -1,4 +1,6 @@
-# Pin
+# Platzi Learning Path Creator
+
+Aprende a implementar pruebas unitarias a un proyecto desarrollado con el stack de MEAN utilizando Jasmine, crea tests unitarios para el frontend desarrollado con Angular, crea tests para validar respuestas de tu servidor con Node y Express y sube de nivel como desarrollador con el stack MEAN.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
